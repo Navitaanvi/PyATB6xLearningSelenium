@@ -4,21 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07dc047e-40d2-4b0b-a4fc-58a895bbfcda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyATB6xLearningSelenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Selenium_Basics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Selenium_Basics/test_Selenium_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Selenium_Basics/test_selenium_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Selenium_Basics/test_selenium_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_selenium_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_selenium_05_task.py" afterDir="false" />
+    <list default="true" id="07dc047e-40d2-4b0b-a4fc-58a895bbfcda" name="Changes" comment="Pyt_Sel 23rd Dec">
+      <change afterPath="$PROJECT_DIR$/src/Task/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_Project1_Dec25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/task_Project2_Dec26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_Selenium_ALL_Browsers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Selenium_Commands/test_selenium_06_OptionClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/test_selenium_08_Project1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/test_selenium_09_Project2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/test_selenium_Projects_parallel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Navitaanvi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Navitaanvi/PyATB6xLearningSelenium.git&quot;,
+    &quot;accountId&quot;: &quot;5061c6c0-e92e-408b-a217-00e3855b0d4f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="37H0KP4IROywta62iCuRYc0pi7L" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,23 +57,37 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for src.Task.task_Project1_Dec25.test_app_vwo.executor": "Run",
+    "Python tests.Python tests for src.Task.task_Project2_Dec26.test_idrive.executor": "Run",
+    "Python tests.Python tests for src.Task.task_Project2_Dec26.test_idrive360.executor": "Run",
     "Python tests.Python tests for src.ex_01_Selenium_Basics.test_Selenium_01.test_first_tc.executor": "Run",
     "Python tests.Python tests for src.ex_02_Selenium_Commands.test_selenium_04.test_selenium.executor": "Run",
     "Python tests.Python tests for src.ex_02_Selenium_Commands.test_selenium_05_task.test_selenium.executor": "Run",
+    "Python tests.Python tests for src.ex_02_Selenium_Commands.test_selenium_08.test_project_1_katalon.executor": "Run",
+    "Python tests.Python tests for src.ex_03_Selenium_Mini_Projects_Locators.test_selenium_08_Project1.test_project_1_katalon_positive.executor": "Run",
+    "Python tests.Python tests for src.ex_03_Selenium_Mini_Projects_Locators.test_selenium_08_Project2.test_project_1_katalon_negative.executor": "Run",
+    "Python tests.Python tests for src.ex_03_Selenium_Mini_Projects_Locators.test_selenium_Projects_parallel.test_project_1_katalon_positive.executor": "Run",
+    "Python tests.Python tests in task_Project2_Dec26.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_ALL_Browsers.py.executor": "Run",
+    "Python tests.Python tests in test_selenium_Projects_parallel.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/navit/PycharmProjects/PyATB6xLearningSelenium/src/ex_02_Selenium_Commands"
+    "last_opened_file_path": "C:/Users/navit/PycharmProjects/PyATB6xLearningSelenium/src/ex_03_Selenium_Mini_Projects_Locators"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearningSelenium\src\ex_03_Selenium_Mini_Projects_Locators" />
       <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearningSelenium\src\ex_02_Selenium_Commands" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\navit\PycharmProjects\PyATB6xLearningSelenium\src\ex_03_Selenium_Mini_Projects_Locators" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for src.ex_02_Selenium_Commands.test_selenium_05_task.test_selenium">
-    <configuration name="Python tests for src.ex_01_Selenium_Basics.test_Selenium_01.test_first_tc" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for src.Task.task_Project2_Dec26.test_idrive">
+    <configuration name="Python tests for src.Task.task_Project1_Dec25.test_app_vwo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,11 +98,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_01_Selenium_Basics.test_Selenium_01.test_first_tc&quot;" />
+      <option name="_new_target" value="&quot;src.Task.task_Project1_Dec25.test_app_vwo&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_02_Selenium_Commands.test_selenium_04.test_selenium" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.Task.task_Project2_Dec26.test_idrive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,11 +113,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_02_Selenium_Commands.test_selenium_04.test_selenium&quot;" />
+      <option name="_new_target" value="&quot;src.Task.task_Project2_Dec26.test_idrive&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.ex_02_Selenium_Commands.test_selenium_05_task.test_selenium" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for src.Task.task_Project2_Dec26.test_idrive360" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearningSelenium" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,15 +128,47 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_02_Selenium_Commands.test_selenium_05_task.test_selenium&quot;" />
+      <option name="_new_target" value="&quot;src.Task.task_Project2_Dec26.test_idrive360&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in task_Project2_Dec26.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearningSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/Task/task_Project2_Dec26.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_selenium_Projects_parallel.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB6xLearningSelenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_03_Selenium_Mini_Projects_Locators/test_selenium_Projects_parallel.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for src.ex_02_Selenium_Commands.test_selenium_05_task.test_selenium" />
-        <item itemvalue="Python tests.Python tests for src.ex_02_Selenium_Commands.test_selenium_04.test_selenium" />
-        <item itemvalue="Python tests.Python tests for src.ex_01_Selenium_Basics.test_Selenium_01.test_first_tc" />
+        <item itemvalue="Python tests.Python tests for src.Task.task_Project2_Dec26.test_idrive" />
+        <item itemvalue="Python tests.Python tests in task_Project2_Dec26.py" />
+        <item itemvalue="Python tests.Python tests for src.Task.task_Project2_Dec26.test_idrive360" />
+        <item itemvalue="Python tests.Python tests for src.Task.task_Project1_Dec25.test_app_vwo" />
+        <item itemvalue="Python tests.Python tests in test_selenium_Projects_parallel.py" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +187,28 @@
       <option name="presentableId" value="Default" />
       <updated>1766544624809</updated>
     </task>
+    <task id="LOCAL-00001" summary="Pyt_Sel 23rd Sel">
+      <option name="closed" value="true" />
+      <created>1766647577895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766647577895</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pyt_Sel 23rd Dec">
+      <option name="closed" value="true" />
+      <created>1766647659435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766647659435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pyt_Sel 23rd Sel" />
+    <MESSAGE value="Pyt_Sel 23rd Dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pyt_Sel 23rd Dec" />
   </component>
 </project>
